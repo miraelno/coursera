@@ -54,7 +54,7 @@ body{
     .card{
         width: 48%;
     }
-    .card:last-of-type{
+    .last_card{
         width: 98%;
     }
 }
